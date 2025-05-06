@@ -1,16 +1,15 @@
-# flutter_meconta
+# Me Conta
 
-A new Flutter project.
+**Me Conta** é um jogo de perguntas interativas que estimula conversas profundas e autoconhecimento entre os participantes.
 
-## Getting Started
+## 📱 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Seleção do número de perguntas (15, 20 ou 30).
+- Perguntas embaralhadas, sem repetições.
+- Interface amigável e adaptada para web e mobile.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Como rodar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/me-conta.git
